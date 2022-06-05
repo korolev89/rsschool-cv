@@ -1,12 +1,38 @@
-# Привет, я Антон!
+# Anton Korolev
 
-## Саммари
-В данный момент нахожусь в городе Сергиев Посад, Московская область.
-В IT более 8 лет, до недавнего времени работал в Epam Systems по направлению Salesforce.
-Остановился на позиции Senior Developer, чуть менее года работал лидом команды разработки.
-Умею в Agile и готов поделиться опытом по процессам разработки ПО, если есть вопросы :)
+## Contact Information
+* Location: Sergiev Posad, Russia
+* Discord: Anton Korolev (@korolev89)
+* Github: [korolev89](https://github.com/korolev89)
+* LinkedIn: [Anton Korolev](https://www.linkedin.com/in/korolev89/)
 
-[А это мой профиль на LinkedIn](https://www.linkedin.com/in/korolev89/)
+## Summary
+* 8 years in EPAM Systems
+* From Junior Software Testing Engineer to Senior Salesforce Developer
+* Consultant, Administrator, Developer projects
+* Dev Team Lead Experience
+* EPAM Resource Manager School graduate
 
-## Цели в RS School
-Хочу расширить свою экспертизу по направлению Front End: правильная верстка, JS ES6+, React/Angular
+## Key Skills
+* Salesforce Sales Cloud, Experience Cloud
+* Sales & Financial, Travel, Property Management business areas
+* B2B and B2C projects, Integrations
+* Customers' Salesforce active users: 5 - 1000
+
+* Salesforce skills
+    * Programmatic customiations: Apex, Visualforce, Aura, LWC
+    * Declarative customizations: Custom objects & fields, Validataion rules, Custom buttons & Actions, LEX pages & Page layouts
+    * Automations: WR, Process Builders, Flows, Approval Processes
+    * Integrations: SOAP | REST
+    * Data management: Data migrations, Reports, Dashboards
+    * User management: Users, Profiles, Roles, Permission Settings, Sharing Settings
+    * DevOps: Continious Integration process | Jenkins
+
+## Certificates
+2022 - Salesforce Platform Developer I
+2022 - Salesforce App Builder
+2022 - EPAM Resource Manager School
+
+## Languages
+Russian - Native
+English - B2
