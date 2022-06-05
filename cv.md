@@ -23,15 +23,15 @@
     * Programmatic customiations: Apex, Visualforce, Aura, LWC
     * Declarative customizations: Custom objects & fields, Validataion rules, Custom buttons & Actions, LEX pages & Page layouts
     * Automations: WR, Process Builders, Flows, Approval Processes
-    * Integrations: SOAP | REST
+    * Integrations: SOAP, REST
     * Data management: Data migrations, Reports, Dashboards
     * User management: Users, Profiles, Roles, Permission Settings, Sharing Settings
-    * DevOps: Continious Integration process | Jenkins
+    * DevOps: Continious Integration process - Jenkins
 
 ## Certificates
-* 2022 - Salesforce Platform Developer I
-* 2022 - Salesforce App Builder
 * 2022 - EPAM Resource Manager School
+* 2022 - Salesforce App Builder
+* 2021 - Salesforce Platform Developer I
 
 ## Languages
 * Russian - Native
