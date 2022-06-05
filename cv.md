@@ -29,10 +29,10 @@
     * DevOps: Continious Integration process | Jenkins
 
 ## Certificates
-2022 - Salesforce Platform Developer I
-2022 - Salesforce App Builder
-2022 - EPAM Resource Manager School
+* 2022 - Salesforce Platform Developer I
+* 2022 - Salesforce App Builder
+* 2022 - EPAM Resource Manager School
 
 ## Languages
-Russian - Native
-English - B2
+* Russian - Native
+* English - B2
