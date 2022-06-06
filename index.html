@@ -2,10 +2,126 @@
 <html lang="en-us">
  <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/style.css">
-  <title>HTML5</title>
+  <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap" rel="stylesheet">
+  <title>Anton Korolev CV</title>
  </head>
  <body>
-  <p>Привет, мир</p>
+  <header class = "header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li> 
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#certificates" class="nav-link">Certificates</a></li>
+          <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+          <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container main-container">
+      <section class="section section-profile" id="personal">
+        <img class="avatar" src="/assets/img/avatar.jpg" alt="my photo">
+        <h1 class="section-title">Anton Korolev</h1>
+      </section>
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contacts</h2>
+        <ul>
+          <li>Location: Sergiev Posad, Russia</li>
+          <li>Discord: Anton Korolev (@korolev89)</li>
+          <li>Github: <a href="https://github.com/korolev89">korolev89</a></li>
+          <li>LinkedIn: <a href="https://github.com/korolev89">Anton Korolev</a></li>
+        </ul>
+      </section>
+      <section class="section" id="summary">
+        <h2 class="section-title">Summary</h2>
+        <ul>
+          <li>8 years in EPAM Systems</li>
+          <li>From Junior Software Testing Engineer to Senior Salesforce Developer</li>
+          <li>Consultant, Administrator, Developer projects</li>
+          <li>Dev Team Lead Experience</li>
+          <li>EPAM Resource Manager School graduate</li>
+        </ul>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul>
+          <li>Salesforce Sales Cloud, Experience Cloud</li>
+          <li>Sales &amp; Financial, Travel, Property Management business areas</li>
+          <li>B2B and B2C projects, Integrations</li>
+          <li>Customers' Salesforce active users: 5 - 1000</li>
+          <li>Salesforce Skills
+            <ul>
+              <li>Programmatic customiations: Apex, Visualforce, Aura, LWC</li>
+              <li>Declarative customizations: Custom objects & fields, Validataion rules, Custom buttons &amp; Actions, LEX pages &amp; Page layouts</li>
+              <li>Automations: WR, Process Builders, Flows, Approval Processes</li>
+              <li>Integrations: SOAP, REST</li>
+              <li>Data management: Data migrations, Reports, Dashboards</li>
+              <li>User management: Users, Profiles, Roles, Permission Settings, Sharing Settings</li>
+              <li>DevOps: Continious Integration process - Jenkins</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education</h2>
+        <ul>
+          <li>Current - Rolling Scopes School Stage 0</li>
+          <li>2022 - Epam Resource Manager School</li>
+          <li>2019 - Epam Salesforce Developer School</li>
+          <li>2014 - Epam Software Testing Engineer School</li>
+          <li>2012 - Moscow State Technological University Stankin</li>
+        </ul>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code</h2>
+        <pre class="code">
+          <code>
+            function sayHello() {
+              alert('Hello, world!');
+            }
+          </code>
+        </pre>
+      </section>
+      <section class="section" id="certificates">
+        <h2 class="section-title">Certificates</h2>
+        <ul>
+          <li>02/2021 Salesforce Platform Developer I</li>
+          <li>05/2022 Salesforce App Builder</li>
+        </ul>
+      </section>
+      <section class="section" id="projects">
+        <h2 class="section-title">Projects</h2>
+        <ul>
+          <li>CV</li>
+        </ul>
+      </section>
+      <section class="section" id="languages">
+        <h2 class="section-title">Languages</h2>
+        <ul>
+          <li>Russian - Native</li>
+          <li>English - B2</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer-items">
+      <span>2022</span>
+      <a href="https://github.com/korolev89">github: korolev89</a>
+      <a href="https://rs.school/js/">
+        <img class="footer-logo" src="assets/img/rs_school_js.svg" alt="rs-school-logo" width="150px" height="50px">
+      </a>
+    </div>
+  </footer>
  </body>
 </html>
