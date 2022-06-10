@@ -83,6 +83,16 @@ header a, footer a {
     color: white;
 }
 
+.main-container a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+.main-container a:hover {
+    background-color: cadetblue;
+    color: white;
+}
+
 .avatar {
     width: 200px;
     height: 200px;
@@ -97,8 +107,17 @@ header a, footer a {
 .footer-items {
     margin: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+}
+
+.footer-items > a:first-of-type {
+    margin-left: 30px;
+}
+
+
+.footer-items > a:last-of-type {
+    margin-left: auto;
 }
 
 .code {
